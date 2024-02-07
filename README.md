@@ -2,7 +2,7 @@
 
 ### TGO en Análisis y Desarrollo de Software.
 
-[Aguila] (https://static.vecteezy.com/system/resources/previews/003/543/093/non_2x/eagle-head-logo-template-on-black-background-vector.jpg) 
+[Aguila] (https://img.freepik.com/vector-premium/logotipo-vector-simple-aguila-aislado-sobre-fondo-negro_794573-81.jpg) 
 
 | Temas | Descripcion |
 |-------|-------------|
