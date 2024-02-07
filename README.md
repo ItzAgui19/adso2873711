@@ -2,7 +2,7 @@
 
 ### TGO en Análisis y Desarrollo de Software.
 
-![Aguila] (https://img.freepik.com/vector-premium/logotipo-vector-simple-aguila-aislado-sobre-fondo-negro_794573-81.jpg) 
+![Aguila](https://img.freepik.com/vector-premium/logotipo-vector-simple-aguila-aislado-sobre-fondo-negro_794573-81.jpg) 
 
 | Temas | Descripcion |
 |-------|-------------|
